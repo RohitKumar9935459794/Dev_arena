@@ -1,0 +1,2 @@
+# first install react framework from 
+react+vite 
